@@ -211,3 +211,4 @@ C:\Dotnet\App\SIMS_APP.Tests\obj\Debug\net9.0\refint\SIMS_APP.Tests.dll
 C:\Dotnet\App\SIMS_APP.Tests\obj\Debug\net9.0\SIMS_APP.Tests.pdb
 C:\Dotnet\App\SIMS_APP.Tests\obj\Debug\net9.0\SIMS_APP.Tests.genruntimeconfig.cache
 C:\Dotnet\App\SIMS_APP.Tests\obj\Debug\net9.0\ref\SIMS_APP.Tests.dll
+C:\Dotnet\App\SIMS_APP.Tests\obj\Debug\net9.0\SIMS_APP.Tests.sourcelink.json

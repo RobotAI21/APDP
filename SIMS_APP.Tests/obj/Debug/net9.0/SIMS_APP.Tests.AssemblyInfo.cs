@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SIMS_APP.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b6a175f44d4ae556ced81af4ea0d1ccf552d220")]
 [assembly: System.Reflection.AssemblyProductAttribute("SIMS_APP.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SIMS_APP.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
